@@ -1,4 +1,3 @@
-# scotty the simp analysis
 
 require(rtweet)
 
